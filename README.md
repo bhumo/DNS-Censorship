@@ -1,9 +1,9 @@
-#DNS Censorship Tool Readme
+**DNS Censorship Tool Readme**
 
-#Overview
+**Overview**
 The DNS Censorship tool is a command-line utility designed to function as a DNS resolver, allowing users to forward DNS queries to upstream servers, log queries, and restrict access to specific websites using a deny list. This tool also supports DNS over HTTPS (DoH) for enhanced security and privacy.
 
-#Usage
+**Usage**
 To use the DNS Censorship tool, follow these instructions:
 
 Open a terminal.
